@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "e39fbb31c86352bee9f63d86",
+  "owner": "pwk8xwvp",
+  "repo": "page-cbce9202bd8289f6a04e8f90",
+  "title": "菜市场(Texon)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cbce9202bd8289f6a04e8f90",
+      "a": "菜市场(Texon)",
+      "b": "最新6折优惠码",
+      "entity": "菜市场(Texon)",
+      "brand": "菜市场(Texon)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "578028aae6a32023f56551521e45f3f4c36e30438d2707dc415709b8a506321b",
+      "content": {
+        "primary_entity": "菜市场(Texon)",
+        "keyword1": "菜市场(Texon)",
+        "keyword2": "最新6折优惠码",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选客户端，订阅配置更顺手。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档配置订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "轻松连接海外网络",
+          "AI_DESCRIPTION": "，菜市场(Texon)提供基础版、旗舰版与团队版三档套餐，覆盖每月100GB到1000GB流量与3至20台设备在线需求。旗舰版带IPLC专线游戏加速优化和7x24优先工单支持，团队版支持企业定制路由与专属客户经理。按年付更划算，基础版年付仅需¥150，旗舰版¥350，团队版¥850。",
+          "AI_FEATURES_INTRO": "从流量、设备数与专线需求出发，快速匹配套餐。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB流量、3台设备，适合轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月300GB流量、5台设备，含IPLC专线游戏加速与优先工单。",
+          "AI_FEATURE_TEXT_3": "团队版每月1000GB流量、20台设备，支持企业定制路由与客户经理。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "进阶加速",
+          "AI_FEATURE_TITLE_3": "团队协作",
+          "AI_GUIDE_INTRO": "三步完成套餐选择与订阅配置。",
+          "AI_GUIDE_TITLE": "使用指南",
+          "AI_HERO_INTRO": "菜市场(Texon)海外加速器提供多档订阅方案，按流量、设备数量和专线需求划分。基础版适合轻度使用，旗舰版强化游戏与流媒体体验，团队版面向多设备协作。按年付可节省开支，订阅后根据设备选择对应客户端导入配置即可。",
+          "AI_HERO_SUBTITLE": "多档套餐匹配你的设备",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC专线游戏加速",
+          "AI_HIGHLIGHT_3": "按年付更划算 最低¥150起",
+          "AI_PLANS_INTRO": "基础版¥15/月或¥150/年，旗舰版¥35/月或¥350/年，团队版¥85/月或¥850/年，按设备数与流量选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按每月流量、同时在线设备数和流媒体或游戏需求，从基础版、旗舰版、团队版中选一档。",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配要求，确认客户端与系统版本支持订阅导入。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅，完成节点选择与连接配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "菜市场(Texon)加速方案",
+          "AI_FAQ_ANSWER_1": "基础版面向 1 到 3 台设备的轻量使用，每月 100GB 流量，日常网页和短视频够用。",
+          "AI_FAQ_ANSWER_2": "旗舰版有 IPLC 专线节点，针对游戏延迟做了线路优化，同时提供全节点原生流媒体解锁。",
+          "AI_FAQ_ANSWER_3": "可以，基础版、旗舰版和团队版都标注了年付价格，年付相当于按月付打了折。",
+          "AI_FAQ_ANSWER_4": "同一套餐的在线设备数量是三档区分的，基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_ANSWER_5": "在客户端里导入订阅链接后，刷新节点列表即可切换线路，各客户端操作以对应文档为准。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与年付折扣。",
+          "AI_FAQ_QUESTION_1": "基础版适合几台设备一起用？",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线适合打游戏吗？",
+          "AI_FAQ_QUESTION_3": "可以按月付也可以按年付吗？",
+          "AI_FAQ_QUESTION_4": "套餐之间的设备数量怎么算？",
+          "AI_FAQ_QUESTION_5": "订阅导入客户端后怎么切换线路？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "3da44e9b6f44798b1c8cd4b3fc9deb8fa1d56542cac56caa695e9348d8fbc1d4",
+    "sitemap.xml": "288e317575b6f4421db76af3d59a847f95606c8c1e404ca9b285ef11f20e22d3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "00b45b8853820cdf90e65f24de43b6bcd6046a19fdb366efdb72217c4191d624"
+}
